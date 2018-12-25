@@ -1,1 +1,1 @@
-This is a repository for digital drawings.
+This is a repository for drawings.
